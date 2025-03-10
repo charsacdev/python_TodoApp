@@ -1,0 +1,9 @@
+.completed {
+    text-decoration: line-through;
+    background-color: #f8d7da;
+    color: #721c24;
+}
+.pending {
+    background-color: #d4edda;
+    color: #155724;
+}
